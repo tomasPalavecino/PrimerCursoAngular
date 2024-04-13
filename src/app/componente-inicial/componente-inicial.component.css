@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar div{
+    height: 2rem;
+    background-color: #eee;
+    padding: 10px;
+    align-content: center;
+}
+
+div div p{
+    
+}
